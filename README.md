@@ -12,7 +12,7 @@
 
 
 # 👤 Membros
-. Luis Fernando Andrade da Silva
-. João Vitor Rodrigues
-. Maria Clara Trevizane
-. Maria Eduarda Trevizane
+- Luis Fernando Andrade da Silva
+- João Vitor Rodrigues
+- Maria Clara Trevizane
+- Maria Eduarda Trevizane
