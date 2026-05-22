@@ -8,10 +8,10 @@
 # 💻 Tecnologias Utilizadas
 
 
-# Guia de Instalação
+# ⚒️ Guia de Instalação
 
 
-# Membros
+# 👤 Membros
 Luis Fernando Andrade da Silva
 João Vitor Rodrigues
 Maria Clara Trevizane
